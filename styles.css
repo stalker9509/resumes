@@ -1,0 +1,9 @@
+.special{
+    font-style: italic;
+    font-weight: bold;
+    background: rgb(0, 139, 139);
+}
+
+.title{
+    font-size: medium;
+}
